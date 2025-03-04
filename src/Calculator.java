@@ -11,7 +11,7 @@ public class Calculator {
 
         System.out.println("İkinci ədədi daxil edin: ");
         double num2 = scanner.nextDouble();
-
+        double result1;
         double result;
 
         switch (operator) {
